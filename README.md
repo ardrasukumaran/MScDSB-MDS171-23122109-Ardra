@@ -11,4 +11,5 @@ Email: ardra.ks@msds.christuniversity.in
 |:----:|:----:|:---:|:----:|
 |1.|23-08-23|lab01|write a program to enter name and push it to github|
 |2.|29-08-23|Lab02|Write a program to print numbers in words|
+|3.|31-08-23|Lab03|Write a program to print mean, max, min, and Range|
 
