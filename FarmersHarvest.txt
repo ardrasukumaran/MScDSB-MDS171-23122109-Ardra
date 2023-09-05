@@ -1,0 +1,4 @@
+Name	:Ardra
+Item	:	apple
+Qnty	:	30
+Rate	:	40
