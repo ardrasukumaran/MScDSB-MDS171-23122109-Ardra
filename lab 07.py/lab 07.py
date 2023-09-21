@@ -1,3 +1,4 @@
+import random
 import csv
 # #class is the keyword. __init__ is a member function to initialise the data entries in the class.
 # #self.name and self.students are data members/properties or attributes of the class
@@ -139,6 +140,14 @@ class expenseTracker:
                 total_expense = total_expense+item["Amount"]
             print("Total Expense\t:\t",total_expense)
 
+    def asCSV(self):
+        with open("expenseTracker.csv" , "w+") as csvfile:
+            for item in self.expenseDict['income']:
+                csvfile.write(str(item))
+            for item in self.expenseDict['Expense']:
+                 csvfile.write(str(item))
+         
+
 
 #define a menu that will let users to enter expense, view expenses
 #or income, get totals in each and exit from the program
@@ -158,13 +167,9 @@ while True:
     print("2. Record Expense")
     print("3.View Records")
     print("4. View my Spendings")
-    print("5.Exit")
+    print("5.Store the Details as CSV File")
+    print("6. EXIT")
 
-    field_names = ['Amount','Category','Date','Details']
-    with open("ExpenseTracker.csv","w") as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames = field_names)
-        writer.writeheader()
-        writer.writerows(trans)
 
     choice = int(input("Enter your choice:").strip())
 
@@ -180,7 +185,9 @@ while True:
         myexpense.view_transactions()
     elif choice == 4:
         myexpense.calculate_transactions()
-    elif choice == 5:
+    elif choice ==5:
+        myexpense.asCSV()
+    elif choice == 6:
         exit()
     else:
         print("In valid choice")
