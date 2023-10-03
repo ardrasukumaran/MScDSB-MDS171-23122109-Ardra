@@ -1,99 +1,5 @@
 import random
 import csv
-# #class is the keyword. __init__ is a member function to initialise the data entries in the class.
-# #self.name and self.students are data members/properties or attributes of the class
-
-# class MSCDSB:
-
-#     def __init__(self):
-#         self.name = "MSc DS B"
-#         self.students = ["A","B","C"]
-    
-#     def printStudents(): #Another member function
-#         for students in self.students:
-#             print(student)
-
-    
-
-# ##to have mltiple copies of the class we need to call the class
-# #to access the object inside the class
-
-# obj = MSCDSB()
-# print(obj.name)
-# print(obj.students)
-# obj.printStudents()
-
-# class car:
-
-#     def __init__(self,mfg,mdl,yr): 
-#         self.manufacturer = mfg
-#         self.model = mdl
-#         self.year = yr
-
-# bmw = car("BMW","F Series","2020")
-# print(bmw.manufacturer)
-
-# ferari = car("Ferari","A Series","2023")
-# print(ferari.model)
-
-
-
-#Create a class resturant that accepts
-#itemName and Qnty ad input
-#Inside the class you are having the item
-#and its price(unit price) as a dictionary
-#Create a function calcute cost
-#that prints the itemname, qnty and price
-
-#Create a class resturant that accepts
-#itemName and Qnty ad input
-# class resturant:
-
-#     def __init__(self,itemName,Qnty):
-#         self.itemName = itemName
-#         self.Qnty = Qnty
-#         self.menuItems = {
-#             "Rice":30,
-#             "Chicken":100,
-#             "Dal": 40,
-#             "Chappathi":15,
-    
-#         }
-
-#     def totalCost(self):
-#         print("Total Cost of the order")
-#         print("Item\t:",self.itemName)
-#         print("Qnty\t:",self.Qnty)
-#         total = self.Qnty*self.menuItems[self.itemName]
-#         print("Total\t:",total)
-
-# order = resturant("Chicken",10)
-# order.totalCost()
-
-# class resturant:
-
-
-#     menuList = {}
-#     def __init__(self,itemName,Qnty):
-#         self.itemName = itemName
-#         self.Qnty = Qnty
-#         self.menuItems ={
-#             "Rice":40,
-#             "Chicken":100,
-#             "Dal": 40,
-#             "Chappathi":15,
-    
-#         }
-
-#     def totalCost(self):
-#         print("Total Cost of the order")
-#         print("Item\t:",self.itemName)
-#         print("Qnty\t:",self.Qnty)
-#         total = self.Qnty*self.menuItems[self.itemName]
-#         print("Total\t:",total)
-
-# order = resturant("Chicken",10)
-# order.totalCost()
 
 # Define a class expense Tracker that stores the
 # expenses and income in a dictionary
@@ -190,12 +96,7 @@ while True:
     elif choice == 6:
         exit()
     else:
-        print("In valid choice")
-
-
-# create a method in the class
-# to export the details in the form of csv
-# add export details to a file in the menu options       
+        print("In valid choice")     
 
 
             
