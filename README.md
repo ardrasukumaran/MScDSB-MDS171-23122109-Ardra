@@ -16,4 +16,4 @@ Email: ardra.ks@msds.christuniversity.in
 |5.|12-09-23|Lab05|To count the number of vowels|[Lab 05](https://github.com/ardrasukumaran/MScDSB-MDS171-23122109-Ardra/blob/66a758607918162a6041c6bb46e077c55cb1a669/Lab%2005.ipynb)
 |6.|14-09-23|Lab06|To make csv file and calculate the price of unique items| [Lab 06](https://github.com/ardrasukumaran/MScDSB-MDS171-23122109-Ardra/blob/55c6d1e08739b6fa96e5f0458327363966d07126/Lab%2006.ipynb)
 |7.|21-09-23|Lab07|Expense Tracker| [Lab 07](https://github.com/ardrasukumaran/MScDSB-MDS171-23122109-Ardra/tree/2990fe502a3c8dec64afcef6bf73841fa197def7/lab%2007.py)
-|8.|03-10-23|Lab08|Stack Class| [Lab 08]
+|8.|03-10-23|Lab08|Stack Class| [Lab 08](https://github.com/ardrasukumaran/MScDSB-MDS171-23122109-Ardra/blob/e1fa6c29d773eeee518e8865d88cca97584da97a/Lab%2008.py)
