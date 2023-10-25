@@ -17,5 +17,4 @@ Email: ardra.ks@msds.christuniversity.in
 |6.|14-09-23|Lab06|To make csv file and calculate the price of unique items| [Lab 06](https://github.com/ardrasukumaran/MScDSB-MDS171-23122109-Ardra/blob/55c6d1e08739b6fa96e5f0458327363966d07126/Lab%2006.ipynb)
 |7.|21-09-23|Lab07|Expense Tracker| [Lab 07](https://github.com/ardrasukumaran/MScDSB-MDS171-23122109-Ardra/tree/2990fe502a3c8dec64afcef6bf73841fa197def7/lab%2007.py)
 |8.|03-10-23|Lab08|Stack Class| [Lab 08](https://github.com/ardrasukumaran/MScDSB-MDS171-23122109-Ardra/blob/e1fa6c29d773eeee518e8865d88cca97584da97a/Lab%2008.py)
-|9.|09-10-23|Lab09|Restraunt Class| [Lab 09](https://github.com/ardrasukumaran/MScDSB-MDS171-23122109-Ardra/blob/80c8d50a487b3634478402262dd3260ce0b8541f/Lab%2009.ipynb)
-|10.|10-10-23|Lab10|PetStore Class| [Lab 10](https://github.com/ardrasukumaran/MScDSB-MDS171-23122109-Ardra/blob/80c8d50a487b3634478402262dd3260ce0b8541f/Lab%2010.py)
+|09.|10-10-23|Lab09|PetStore Class| [Lab 09](https://github.com/ardrasukumaran/MScDSB-MDS171-23122109-Ardra/blob/80c8d50a487b3634478402262dd3260ce0b8541f/Lab%2010.py)

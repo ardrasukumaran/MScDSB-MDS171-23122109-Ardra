@@ -27,7 +27,7 @@ class petStore:
         colour = input("Enter the colour of the pet: ")
         rate = int(input("Enter the rate of the pet: "))
         details["Breed"] = breed
-        details["Age"] = age
+        details["Age"] = age 
         details["Colour"] = colour
         details["Rate"] = rate
 
@@ -63,6 +63,9 @@ class petStore:
                 flag = False
         if flag == False:
             print("Pet not found")
+
+    #def sellPet(self):
+        
     
     # def sellPet(self):
     #     sold= input("Enter the breed you want to sell: ")
@@ -78,10 +81,3 @@ while True:
         shop1.searchPet()
     if choice ==3:
         exit()
-
-
-
-
-
-        
-        
