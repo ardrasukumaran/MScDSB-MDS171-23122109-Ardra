@@ -18,3 +18,4 @@ Email: ardra.ks@msds.christuniversity.in
 |7.|21-09-23|Lab07|Expense Tracker| [Lab 07](https://github.com/ardrasukumaran/MScDSB-MDS171-23122109-Ardra/tree/2990fe502a3c8dec64afcef6bf73841fa197def7/lab%2007.py)
 |8.|03-10-23|Lab08|Stack Class| [Lab 08](https://github.com/ardrasukumaran/MScDSB-MDS171-23122109-Ardra/blob/e1fa6c29d773eeee518e8865d88cca97584da97a/Lab%2008.py)
 |09.|10-10-23|Lab09|PetStore Class| [Lab 09](https://github.com/ardrasukumaran/MScDSB-MDS171-23122109-Ardra/blob/80c8d50a487b3634478402262dd3260ce0b8541f/Lab%2010.py)
+|10.|26-10-23|Lab10|Student Details Class| [Lab 10](https://github.com/ardrasukumaran/MScDSB-MDS171-23122109-Ardra/blob/c3ecfcff5186385dc7f3e8a08d5621866bf2548f/Lab%20Folder/Lab%2010/lab%2010.py)
