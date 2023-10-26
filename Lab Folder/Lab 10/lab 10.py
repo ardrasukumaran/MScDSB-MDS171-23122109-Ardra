@@ -44,8 +44,8 @@ while True:
     
     print('1. Teacher')
     print('2. Student')
-    choice_1 = input('Select your user type: ').lower()
-    if choice_1 == "teacher":
+    choice_1 = int(input('Select your user type: '))
+    if choice_1 == 1:
         while True:
             print('1. Input student details')
             print('2. View Database')
@@ -71,11 +71,10 @@ while True:
                 print("Thank you!")
                 break
                 
-    elif choice_1 =="student":
+    elif choice_1 ==2:
+        print('1. View Database')
 
         while True:
-            print('1. View Database')
-
             choice_3 = int(input('Choose the funtion to perform: '))
             if choice_3 ==1:
                 SearchReg = input("Enter the register number of searching student: ")
