@@ -20,8 +20,8 @@ class student:
             "Python":python,
             "Total Marks":total,
             "percent":percentage
-
         }
+        
         self.dic1["Marks"]=self.dic2
         self.stuDetails[regno] = self.dic1
         print(self.stuDetails)
